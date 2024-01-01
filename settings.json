@@ -1,13 +1,13 @@
 {
   "bot-account": {
-    "username": "bot",
-    "password": "your_password",
-    "type": "microsoft"
+    "username": "corvis",
+    "password": "",
+    "type": ""
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
+    "ip": "greenice.aternos.me",
+    "port": 33264,
     "version": "1.19.3"
   },
 
@@ -20,14 +20,14 @@
 
   "utils": {
     "auto-auth": {
-      "enabled": false,
-      "password": "12345678"
+      "enabled": true,
+      "password": "cortanajarvis"
     },
 
     "anti-afk": {
-      "enabled": false,
+      "enabled": true,
       "sneak": false,
-      "jump": false,
+      "jump": true,
       "rotate": false,
 
       "hit": {
@@ -49,9 +49,9 @@
 
       "messages": [
         "I'm a regular player ",
-        "My owner is urFate_ ",
+        "gg",
         "I want be alone ",
-        "Visit my GitHub page! (urFate/Afk-Bot)"
+        "Bye"
       ]
     },
 
