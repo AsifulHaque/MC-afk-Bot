@@ -27,7 +27,7 @@
     "anti-afk": {
       "enabled": true,
       "sneak": false,
-      "jump": true,
+      "jump": false,
       "rotate": false,
 
       "hit": {
@@ -37,7 +37,7 @@
       },
 
       "circle-walk": {
-        "enabled": false,
+        "enabled": true,
         "radius": 2
       }
     },
